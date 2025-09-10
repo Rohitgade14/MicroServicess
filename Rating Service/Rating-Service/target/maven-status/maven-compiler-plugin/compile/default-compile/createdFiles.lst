@@ -1,0 +1,12 @@
+com\rating\service\repository\RatingRepository.class
+com\rating\service\payload\Response.class
+com\rating\service\entities\Rating.class
+com\rating\service\exceptions\RatingNotFoundException.class
+com\rating\service\mappers\RatingMapper.class
+com\rating\service\mappers\RatingMapperImpl.class
+com\rating\service\contollers\RatingController.class
+com\rating\service\dtos\RatingDto.class
+com\rating\service\service\impl\RatingServiceImpl.class
+com\rating\service\exceptions\GlobelExceptionHandler.class
+com\rating\service\RatingServiceApplication.class
+com\rating\service\service\RatingService.class

@@ -1,0 +1,5 @@
+# Created at 2025-09-08T10:17:29.246
+Boot Manifest-JAR contains absolute paths in classpath 'E:\MicroServicess\Rationg Service\Rationg-Service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
